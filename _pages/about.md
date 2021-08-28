@@ -14,11 +14,19 @@ redirect_from:
 # Portfolio
 ---
 ## Computer Vision
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
-<div style="text-align: justify">Comparing the Performance of Customized architecture of AlexNet and ResNet in classifying COVID-19 CT Scan images and Normal Images</div>
+### Advance Convolution Neural networks (CNN) approach in Classifying COVID19 CT Scan Images
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/)
+<div style="text-align: justify">Comparing the Performance of Customized architecture of AlexNet and ResNet in classifying COVID-19 CT Scan images and Normal Images and was deployed using streamlit framework</div>
 <center><img src="images/nlp.png"/></center>
-  
 
+### Counting buildings and identifying points of interest
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
+<div style="text-align: justify">The identification of buildings in Africa looks so daunting due to the irregularity in the arrangement of buildings in various settlements.This project focuses on developing a framework which will help in counting buildings and subsequently identify points of interest by applying object detection</div>
+<center><img src="images/.png"/></center>
+
+
+ 
 Latest News
 -----
 ............Coming Soon!!!
