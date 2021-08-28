@@ -24,11 +24,11 @@ redirect_from:
 <div style="text-align: justify">The identification of buildings in Africa looks so daunting due to the irregularity in the arrangement of buildings in various settlements.This project focuses on developing a framework which will help in counting buildings and subsequently identify points of interest by applying object detection</div>
 <center><img src="roof.png"/></center>
 
-### Classification of Computer Virus in Windows Environment Using Advance CNN approach
+<!-- ### Classification of Computer Virus in Windows Environment Using Advance CNN approach
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/olawale0254/Roof) [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/)
 <div style="text-align: justify">The data consist of about 26 classes of different types of virus images. The purpose of this project was to present a better model which could
 outperform models presented by other researchers. To achieve this, we applied Xception transfer learning model for the feature extraction and and our model was trained using LightGBM</div>
-<center><img src="Virus.png"/></center>
+<center><img src="Virus.png"/></center> -->
 
 
  
