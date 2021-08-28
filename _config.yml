@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charles C Onu"
+title                    : "Olawale V Abimbola"
 title_separator          : "-"
-name                     : &name "Charles C Onu"
-description              : &description "Personal website of Charles C Onu"
+name                     : &name "Olawale V Abimbola"
+description              : &description "Personal website of Olawale V Abimbola"
 url                      : https://onucharles.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "onucharles/onucharles.github.io"
+repository               : "olawale0254/olawale0254.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Charles C Onu"
-  avatar           : "profile.jpg"
-  bio              : "PhD Student, McGill University & Mila - Québec AI Institute"
-  location         : #"Location"
-  employer         :
+  name             : "Olawale V Abimbola"
+  avatar           : "new.jpg"
+  bio              : "Statistician/Data Scientist"
+  location         : "Lagos, Nigeria"
+  employer         : "Data Science Nigeria"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=mH6pBuMAAAAJ&hl=en"
-  email            : "charles.onu@mail.mcgill.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=gF0upCoAAAAJ&hl=en&authuser=1"
+  email            : "abimbolaolawale41@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Olawale-Abimbola"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "onucharles"
+  github           : "olawale0254"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "onucharles/"
+  linkedin         : "bimbolawale/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "onucharlesc"
+  twitter          : "bimbolawale"
   vine             :
   weibo            :
   xing             :
